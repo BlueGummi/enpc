@@ -1,4 +1,4 @@
-# enpc = Enby PC (Nonbinary Personal Computer)
+# enpc - Enby PC (Nonbinary Personal Computer)
 
 WIP, unbalanced ternary machine 
 
